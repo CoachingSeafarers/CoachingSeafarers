@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Konstantinos Dimanis | Seafarer Coaching & DP Training</title>
+  <meta name="description" content="Master Mariner & DP Instructor helping seafarers grow technically and personally through mentoring, DP training, and leadership coaching." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="logo">
+        <span class="logo-mark">KD</span>
+        <span class="logo-text">Konstantinos Dimanis</span>
+      </div>
+      <nav class="nav">
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#for-seafarers">For Seafarers</a>
+        <a href="#resources">Resources</a>
+        <a href="#contact" class="btn btn-small">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- HERO -->
+    <section class="hero">
+      <div class="container hero-inner">
+        <div class="hero-text">
+          <h1>Helping Seafarers Grow in a High-Stakes World</h1>
+          <p>
+            I’m Konstantinos Dimanis, Master Mariner and DP Instructor.  
+            I help officers and crew sharpen their technical and soft skills, build safer teams,  
+            and prepare for the next step in their maritime career.
+          </p>
+          <div class="hero-actions">
+            <a href="#contact" class="btn">Request a coaching call</a>
+            <a href="#services" class="btn btn-outline">View services</a>
+          </div>
+          <div class="hero-tags">
+            <span>Dynamic Positioning</span>
+            <span>Leadership & Mentoring</span>
+            <span>Performance Coaching</span>
+          </div>
+        </div>
+        <div class="hero-card">
+          <h2>1:1 & Team Coaching at Sea</h2>
+          <p>
+            Practical, real-world coaching tailored to seafarers: focused debriefs,  
+            DP mindset, and soft-skills that actually work onboard.
+          </p>
+          <ul>
+            <li>Deck officer development</li>
+            <li>DP operations mindset</li>
+            <li>Leadership & communication</li>
+          </ul>
+          <a href="#contact" class="btn btn-block">Schedule a call</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about" class="section">
+      <div class="container two-column">
+        <div>
+          <h2>About Konstantinos</h2>
+          <p>
+            I am a Master Mariner and Dynamic Positioning Instructor with hands-on experience  
+            leading shuttle tankers and coaching multinational crews in demanding offshore operations.
+          </p>
+          <p>
+            My passion is to help officers and crew grow — not only in technical competence,  
+            but in decision-making, communication, and leadership under pressure.
+          </p>
+        </div>
+        <div class="about-highlights">
+          <div class="stat">
+            <span class="stat-number">10+ years</span>
+            <span class="stat-label">sea-going leadership</span>
+          </div>
+          <div class="stat">
+            <span class="stat-number">DP</span>
+            <span class="stat-label">specialisation & training</span>
+          </div>
+          <div class="stat">
+            <span class="stat-number">Coaching</span>
+            <span class="stat-label">for officers & crew</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SERVICES -->
+    <section id="services" class="section section-muted">
+      <div class="container">
+        <h2>How I Can Help</h2>
+        <p class="section-intro">
+          Every vessel, team, and officer is at a different stage.  
+          Below are the core ways I support seafarers and companies.
+        </p>
+
+        <div class="cards">
+          <article class="card">
+            <h3>1:1 Coaching for Officers</h3>
+            <p>
+              Focused online or onboard sessions tailored to each officer’s needs:  
+              situational awareness, decision-making, communication with multicultural crews,  
+              and planning the next career step.
+            </p>
+            <ul>
+              <li>Goal-focused sessions</li>
+              <li>Action plans between calls</li>
+              <li>Accountability and follow-up</li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <h3>Team & Bridge Coaching</h3>
+            <p>
+              Coaching embedded in daily operations: pre- and post-operation briefings,  
+              feedback on real situations, and building psychological safety on the bridge.
+            </p>
+            <ul>
+              <li>Onboard presence or remote support</li>
+              <li>Debriefs on real operations</li>
+              <li>Practical tools, not theory only</li>
+            </ul>
+          </article>
+
+          <article class="card">
+            <h3>DP & Technical Mindset Training</h3>
+            <p>
+              Support around DP operations and high-risk cargo work: mindset, communication,  
+              and human factors around complex technical systems.
+            </p>
+            <ul>
+              <li>DP operations mindset</li>
+              <li>Error-traps & human factors</li>
+              <li>Checklists that people actually use</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- FOR SEAFARERS -->
+    <section id="for-seafarers" class="section">
+      <div class="container two-column">
+        <div>
+          <h2>For Individual Seafarers</h2>
+          <p>
+            Whether you are an AB planning to become Officer,  
+            or a young Chief Officer preparing for command, coaching can help you:
+          </p>
+          <ul class="checklist">
+            <li>Clarify your next career steps.</li>
+            <li>Improve communication with senior officers and management.</li>
+            <li>Build confidence during critical operations and inspections.</li>
+            <li>Develop habits that support long-term growth, not just the next contract.</li>
+          </ul>
+        </div>
+        <div class="panel">
+          <h3>How a coaching program works</h3>
+          <ol>
+            <li>Short introductory call to understand your goals.</li>
+            <li>Agree on a 4–8 session coaching plan.</li>
+            <li>Online or onboard sessions, with simple actions between each one.</li>
+            <li>Final review and next-step roadmap.</li>
+          </ol>
+          <a href="#contact" class="btn btn-block">Start with an intro call</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- RESOURCES -->
+    <section id="resources" class="section section-muted">
+      <div class="container">
+        <h2>Articles & Resources</h2>
+        <p class="section-intro">
+          I regularly share thoughts on leadership at sea, DP, and human performance.  
+          Below are a few themes you’ll find in my content.
+        </p>
+        <div class="cards cards-small">
+          <article class="card">
+            <h3>Psychological safety onboard</h3>
+            <p>How Masters and Chief Officers can build an environment where crew actually speak up before things go wrong.</p>
+          </article>
+          <article class="card">
+            <h3>From “open door” to real presence</h3>
+            <p>Why saying “my door is always open” is not enough and what to do instead on deck, in the CCR, and on the bridge.</p>
+          </article>
+          <article class="card">
+            <h3>Developing young officers</h3>
+            <p>Practical ways to structure mentoring, debriefs, and feedback for junior officers during busy operations.</p>
+          </article>
+        </div>
+        <p class="center">
+          Follow me on LinkedIn for more articles and practical insights.
+        </p>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" class="section">
+      <div class="container two-column">
+        <div>
+          <h2>Contact</h2>
+          <p>
+            If you are a seafarer, training center, or shipping company  
+            and you’d like to explore working together, send a brief message below.
+          </p>
+          <p>
+            Please include your vessel type, current rank or role, and what you would like to improve.
+          </p>
+        </div>
+        <form class="contact-form" action="mailto:your-email@example.com" method="post" enctype="text/plain">
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input id="name" name="name" type="text" required />
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input id="email" name="email" type="email" required />
+          </div>
+          <div class="form-group">
+            <label for="role">Role / Company</label>
+            <input id="role" name="role" type="text" />
+          </div>
+          <div class="form-group">
+            <label for="message">How can I help?</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+          </div>
+          <button type="submit" class="btn btn-block">Send message</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>© <span id="year"></span> Konstantinos Dimanis. All rights reserved.</p>
+      <p class="footer-meta">Master Mariner · DP Instructor · Seafarer Coach</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
